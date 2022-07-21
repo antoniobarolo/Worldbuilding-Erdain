@@ -2,4 +2,114 @@ body{
     color: white;
     background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(".img/dirt-texture.png");
+}
+
+header{
+	
+	width: 100%;
+	background-color: black;
+	padding-top: 40px;
+}
+
+main{
+	padding: 20px;
+	max-width: 60vw;
+	margin: 0 auto;
+}
+
+h1{
+    font-weight: bold;
+	font-size: 48px;
+}
+
+hr{
+	margin-bottom: 30px;
+}
+
+section{
+	text-align: justify;
+}
+
+main p{
+	text-align: justify;
+	padding-top: 30px;
+}
+
+.titleText{
+	font-size: 28px;
+	font-weight: bold;
+}
+
+.centerText{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.box {
+	position: relative;
+	max-width: 940px;
+	margin: 0 auto;
+}
+
+
+.banner{
+    padding-top: 30vh;
+    padding-bottom: 10vh;
+}
+
+nav {
+	padding: 50px;
+	line-height: 2;
+}
+
+header nav{
+	padding: 20px;
+}
+
+nav li {
+	display: inline;
+	margin: 15px;
+}
+
+
+a, a:hover{
+	color: white;
+	text-decoration: none;
+}
+
+nav a {
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 18px;
+	text-decoration: none;
+    color: #865f35;
+}
+
+nav a:hover {
+	color: #b87d31;
+	text-decoration: underline;
+}
+
+
+.sublinks{
+	padding-top: 30px;
+	line-height: 4;
+	list-style-type: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 18px;
+	text-decoration: none;
+    color: #693e10;
+	padding-right: 1.8vw;
+}
+
+.sublinks a:hover{
+	color: #b87d31;
+	text-decoration: underline;
+}
+
+table{
+	font-size: 16px;
+	line-height: 2;
 }
