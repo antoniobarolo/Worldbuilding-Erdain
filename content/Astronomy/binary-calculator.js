@@ -29,5 +29,4 @@ as orbitas iam durar uns 5000 anos p menos cipa
 mano é mt instavel essa proximidade principalmente no começo em q os sois se encontraram kkkk
 
 17000kph o sistema solar pelo neighbourhood local
-
 */
