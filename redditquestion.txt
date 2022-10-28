@@ -1,0 +1,28 @@
+
++ manto:
+    + densidade
+    + campo magnetico
+    + atividade tectonica? sla pq oq importa eh a atenosfera ne 
+    + temperatura interna
+    - profunidade oceano
+    - profundidade de camadas de sedimentos?
+    + fertilidade?
+
+    quanto mais velho o planeta mais porcao de crosta ele tem?
+    pq a qtd de metal n muda, so a temperatura dele (solido ou fundido) 
+    The crust does not show a pattern of increased thickness with age, as would be the case if it were repeatedly subjected to igneous intrusions from the underlying mantle. 
+
+-----------
+Hey everyone! I have a very specific question which I still haven't found much answers online:
+How does the relative thickness of a planet's crust, mantle and core can affect its climate and landscapes?
+Here below I listed my guesses for some possible correlations and my reasoning for them. So please share your thoughts on them, if you disagree with any of them and why! :)
+    A planet with a thicker mantle and core (and thus a thinner crust) would probably have:
+1. A higher density - because it would have more molten metals in contrast to rocks like silicate
+2. Stronger tectonic activity and magnetic field - also because of a higher portion of metallic elements, but I'm not sure about that one though because maybe that just depends on the lubrication of the athenosphere, right? But I assume at least that more intense plate tecnonics would increase the dynamo effect and strengthen the magnetic field
+3. Higher inner temperature - this one is actually a cause, not a consequence, in the sense that the planet would need a hotter interior to keep a greater portion of itself molten
+4. Shallower oceans and shorter mountains - because a thinner crust could mean less amplitude in elevation. Also, if the amount of water on the surface is the same, shallower oceans would mean more ocean surface area. But maybe this explanation clashes with having a stronger tectonic activity that in theory would be increasing this relief amplitude
+5. Shallower sedimentary basins - because the more metals on the planet, the bigger the portion of magmatic rocks on the crust
+6. Higher plant fertility - this one is a bit of a stretch, but because there would be a higher portion of nutritious minerals available, but also if there's too much minerals it would become toxic for plants and I wouldn't know where to trace that line
+7. Also, does crustal thickness have any correlation with the planet age or size?
+As you can see I'm very uncertain about my conclusions, so I would really appreciate any feedback.
+Btw I'm not sure if this is the best subreddit to ask this, so if anyone has any suggestion on any subreddits that could help me more that would also be of great help!
