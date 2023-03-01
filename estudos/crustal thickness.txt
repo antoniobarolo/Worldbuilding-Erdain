@@ -48,7 +48,7 @@ https://www.reddit.com/r/worldbuilding/comments/y7f5s5/how_does_the_relative_thi
 
 https://www.reddit.com/r/geology/comments/y7f74n/how_does_the_relative_thickness_of_a_planets/
 ----------------------------------------
-Conclusions:
+Brainstorm:
 
 + thick core:
 
@@ -58,16 +58,17 @@ Conclusions:
 	+ inner temperature
 	+ ocean-mountain amplitude
 	- thick sedimentary basin
-	+ plant ferility
+	+ plant fertility
 	age/size?
 
 " The general distribution of elements is quite the same if we say we compare on solar systems inhabitable zone"
 
 "The bigger [the planet], the more processes have to happen to get the same relative thickness of crust"
 
-" I would even bet, a thicker crust would result in stronger tectonics"
+"I would even bet, a thicker crust would result in stronger tectonics"
+(mas eu acho q pode ser o contrario pq venus n tem tectonica pq a litosfera é forte ne)
 
-"Going back to your question, if you have a thicker mantle, you will reach the temperature and pressure for a liquid core sooner, but will also reach the pressure at which the inner core will become solid sooner. So the ratio of mantle to outer core to inner core should remain relatively the same."
+"if you have a thicker mantle, you will reach the temperature and pressure for a liquid core sooner, but will also reach the pressure at which the inner core will become solid sooner. So the ratio of mantle to outer core to inner core should remain relatively the same."
 
 "It’s not unreasonable to say that a planet’s crust grows thicker as it ages. However, this occurs on timescales that are long even for geology - Earth isn’t expected to solidify for 91 billion years"
 
@@ -85,3 +86,28 @@ Conclusions:
 magnetic field -> size and rotational speed matter
 
 litosphere em venus é maior e mais forte impedindo atividade sismica na crosta
+
+--------------------------------
+Conclusões:
+
+Causas:
+	Idade
+	Size&Mass
+	Composição -> n da p ser mt diferente
+
+	Temperatura -> cai com a idade, mais qnt menor o tamanho
+	Geosferas
+	Densidade
+
+Consequências:
+	crosta -> afina um pouco?: vai afinando c subducção e engrossando com orogênese
+	manto -> 
+	nucleo -> inner core tá crescendo lentamente
+
+	tectonica -> inversamente proporcional à massa (artifexian disse)
+		-> + magnetic field
+		-> + sequestro de carbono
+		-> se expoe mt a crosta esfria o planeta mais
+		-> amplitude de relevo (a grossura da crosta é consequencia da atividade tectonica, e não causa)
+
+amplitude de relevo deve ser afetada principalmente por densidade
