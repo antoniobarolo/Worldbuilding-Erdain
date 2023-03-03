@@ -27,6 +27,11 @@ hr{
 	margin-bottom: 30px;
 }
 
+section a{
+	color: rgb(84, 169, 255);
+	text-decoration: underline;
+}
+
 section{
 	text-align: justify;
 }
