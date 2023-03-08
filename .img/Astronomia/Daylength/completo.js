@@ -21,7 +21,8 @@ function imprimir(){
     var lat = $("#lat").val()
     var tilt = $("#tilt").val()
     for(var dia = 0; dia < ano; dia++){
-       $(".imprimir").append("<br/>"+dia+"_____"+calcular(ano, horas, lat, dia, tilt))
+       //$(".imprimir").append("<br/>"+dia+"_____"+calcular(ano, horas, lat, dia, tilt))
+       $(".imprimir").append("<br/>"+calcular(ano, horas, lat, dia, tilt))
     }
 }
 

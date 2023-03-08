@@ -14,13 +14,31 @@ header{
 
 main{
 	padding: 20px;
-	max-width: 940px;
 	margin: 0 auto;
+}
+
+.col{
+	display: flex;
+}
+
+.col section{
+	width: 45vw;
 }
 
 h1{
     font-weight: bold;
 	font-size: 48px;
+	padding-bottom: 30px;
+	text-shadow: #FC0 1px 0 10px;
+}
+
+h2{
+	padding: 20px;
+	text-shadow: 5px 5px #0000007e;
+}
+
+p{
+	padding-left: 20px;
 }
 
 hr{
@@ -34,11 +52,7 @@ section a{
 
 section{
 	text-align: justify;
-}
-
-main p{
-	text-align: justify;
-	padding-top: 30px;
+	margin: 0 auto;
 }
 
 .titleText{

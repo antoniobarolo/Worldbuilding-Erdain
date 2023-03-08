@@ -1,0 +1,4 @@
+The surface gravity and temperature of the world can have a significant effect on the sky color.
+Low gravity or low temperatures mean that you need a thicker blanket of gas to reach the same pressure;
+a low gravity or low temperature world will have skies that are colored like that of a higher pressure world with Earth-like pressure and temperature.
+High gravity or temperature have the opposite effect, able to obtain the same pressure with a thinner atmospheric blanket meaning that their skies will look like a lower pressure world with otherwise Earth-like conditions.

@@ -100,9 +100,10 @@ Causas:
 	Densidade
 
 Consequências:
-	crosta -> afina um pouco?: vai afinando c subducção e engrossando com orogênese
+	crosta -> vai afinando c subducção e engrossando com orogênese
+		"The crust does not show a pattern of increased thickness with age, as would be the case if it were repeatedly subjected to igneous intrusions from the underlying mantle."
 	manto -> 
-	nucleo -> inner core tá crescendo lentamente
+	nucleo -> inner core tá crescendo lentamente	
 
 	tectonica -> inversamente proporcional à massa (artifexian disse)
 		-> + magnetic field
